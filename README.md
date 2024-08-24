@@ -15,7 +15,9 @@ This project is a simple command-line terminal emulator built in Python. It allo
 
 ## Installation
 
-No special installation is required. The project can be run in any environment with Python 3 installed.
+```bash
+pip install -r requirments.txt
+```
 
 ## Usage
 
