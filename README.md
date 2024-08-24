@@ -20,9 +20,12 @@ No special installation is required. The project can be run in any environment w
 ## Usage
 
 1. Clone the repository from [GitHub](https://github.com/MuhammedYasir441/mini_terminal_wtih_python).
-2. Open a terminal or command prompt.
-3. Navigate to the project directory.
-4. Run the terminal by executing:
+```bash
+git clone https://github.com/MuhammedYasir441/mini_terminal_wtih_python
+```
+3. Open a terminal or command prompt.
+4. Navigate to the project directory.
+5. Run the terminal by executing:
 
    ```bash
    python terminal.py
