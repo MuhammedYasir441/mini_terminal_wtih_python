@@ -28,4 +28,4 @@ No special installation is required. The project can be run in any environment w
 5. Run the terminal by executing:
 
    ```bash
-   python terminal.py
+   python main.py
