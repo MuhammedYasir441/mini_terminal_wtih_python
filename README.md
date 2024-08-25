@@ -21,18 +21,17 @@ This project is a simple command-line terminal emulator built in Python. It allo
 - **`zip [zipfile name] [file_or_directory1] [file_or_directory2] ...`**: Zips the specified files or directories into a single zip file.
 - **`help`**: Displays this help information
 
-## Installation
-
-```bash
-pip install -r requirments.txt
-```
-
 ## Usage
 
 1. Clone the repository from [GitHub](https://github.com/MuhammedYasir441/mini_terminal_wtih_python).
 ```bash
    git clone https://github.com/MuhammedYasir441/mini_terminal_wtih_python
 ```
+2. 
+```bash
+pip install -r requirments.txt
+```
+
 3. Open a terminal or command prompt.
 4. Navigate to the project directory.
 5. Run the terminal by executing:
